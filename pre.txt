@@ -1,0 +1,4 @@
+Manhole Detection ek computer vision system hai jo images ya videos mein open aur damaged manholes ko detect karta hai.
+Is project mein YOLOv8 deep learning model ka use karke manholes ko accurately identify kiya jata hai.
+Yeh system roads ki monitoring aur public safety ko improve karne mein madad karta hai.
+Future mein is technology ko smart cities aur automatic road inspection systems mein use kiya ja sakta hai.
